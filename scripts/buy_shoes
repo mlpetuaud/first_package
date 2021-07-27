@@ -3,4 +3,4 @@
 
 import os
 
-os.system("open 'https://www.lemonde.fr/' ")
+os.system("open 'https://www.zalando.fr/' ")
